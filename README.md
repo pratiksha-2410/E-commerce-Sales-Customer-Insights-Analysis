@@ -1,12 +1,12 @@
-🛒 E-Commerce Sales & Customer Insight Analysis
-End-to-End Business Intelligence & Customer Analytics Project
+#  E-Commerce Sales & Customer Insight Analysis
+**End-to-End Business Intelligence & Customer Analytics Project**
 
-📌 Executive Summary
-This project delivers a comprehensive data-driven analysis of e-commerce sales performance and customer behavior to uncover revenue drivers, profitability patterns, and customer segmentation insights.
+## Executive Summary
+**This project delivers a comprehensive data-driven analysis of e-commerce sales performance and customer behavior to uncover revenue drivers, profitability patterns, and customer segmentation insights.**
 
-Using advanced SQL analysis, Python-based data processing, and customer analytics techniques (including RFM segmentation), this project transforms raw transactional data into actionable business intelligence.
+**Using advanced SQL analysis, Python-based data processing, and customer analytics techniques (including RFM segmentation), this project transforms raw transactional data into actionable business intelligence.**
 
-The objective is to support strategic decisions related to:
+### The objective is to support strategic decisions related to:
 
 Revenue optimization
 
@@ -18,7 +18,7 @@ Marketing effectiveness
 
 Profitability improvement
 
-🎯 Business Objectives
+## Business Objectives
 The analysis addresses key business questions:
 
 Which products and categories drive the highest revenue and profit?
@@ -31,8 +31,8 @@ How can we identify churn risk customers?
 
 Which customer segments generate sustainable growth?
 
-📊 Dataset Overview
-The dataset includes structured e-commerce transactional records such as:
+## Dataset Overview
+**The dataset includes structured e-commerce transactional records such as:**
 
 Order ID
 
@@ -54,8 +54,8 @@ Region
 
 The dataset contains both transaction-level data and customer-level behavioral data enabling multi-dimensional analysis.
 
-🧠 Analytical Approach
-1️⃣ Data Cleaning & Preparation
+## Analytical Approach
+### Data Cleaning & Preparation
 Handling missing values
 
 Data type corrections
@@ -66,7 +66,7 @@ Profit margin calculation
 
 Removing duplicate records
 
-2️⃣ Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 Performed in-depth analysis to identify patterns:
 
 Revenue trends over time
@@ -79,7 +79,7 @@ Region-wise performance
 
 Profit vs Discount relationship
 
-3️⃣ Sales Performance Analysis
+### Sales Performance Analysis
 Top-selling products
 
 High-margin categories
@@ -90,7 +90,7 @@ Seasonal demand patterns
 
 Customer purchase frequency
 
-4️⃣ Customer Insight Analysis (RFM Segmentation)
+### Customer Insight Analysis (RFM Segmentation)
 Calculated:
 
 Recency – Days since last purchase
@@ -113,7 +113,7 @@ Churned Customers
 
 This enables targeted marketing strategies.
 
-📈 Key Insights
+## Key Insights
 A small percentage of customers contribute a majority of revenue (Pareto Principle).
 
 High discounts negatively impact overall profit margins.
@@ -125,7 +125,7 @@ Repeat customers generate significantly higher lifetime value.
 Churn-risk customers show declining frequency patterns before inactivity.
 
 
-🛠️ Tech Stack
+## Tech Stack
 SQL – Data querying & aggregation
 
 Python – Data analysis (Pandas, NumPy)
@@ -135,7 +135,7 @@ Visualization – Matplotlib, Seaborn
 Jupyter Notebook – Analysis workflow
 
 
-📊 Business Impact
+## Business Impact
 If implemented in a real-world e-commerce company, this analysis can:
 
 Improve marketing ROI through customer segmentation
@@ -149,7 +149,7 @@ Identify high-profit products
 Support executive-level decision making
 
 
-📌 Skills Demonstrated
+## Skills Demonstrated
 Business Intelligence & KPI Analysis
 
 Advanced SQL Aggregations
@@ -163,6 +163,8 @@ Data Visualization
 Strategic Business Thinking
 
 👩‍💻 Author
+<br>
 Pratiksha Bagwale Zagade
+<br>
 Aspiring Data Scientist | Business Analytics Enthusiast
 
