@@ -249,7 +249,7 @@ print(rfm[["Customer_ID","Frequency"]].to_string(index=False))
 #Calculate Monetory
 
 query = ("""
-SELECT SUM(Sales) AS Monetary
+SELECT Customer_ID,SUM(Sales) AS Monetary
 FROM orders
 GROUP BY Customer_ID
 """)
